@@ -21,3 +21,7 @@ h3.description {
   font-size: 21px;
   color: gray;
 }
+h4.company {
+  text-align: right;
+  color: gray;
+}
